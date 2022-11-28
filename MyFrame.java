@@ -1,6 +1,5 @@
 import javax.swing.*;
 import java.awt.*;
-import java.awt.event.*;
 
 public class MyFrame{
     public static void main (String []args){
@@ -15,7 +14,7 @@ public class MyFrame{
         frame.add(bofa);
 
         JButton b = new JButton ("bofa");
-        b.setPrefferedSize(new Dimension (100,30));
+        b.setPreferredSize(new Dimension (100,30));
         frame.add (b);
         frame.setSize(500, 500);
         frame.setLayout(new FlowLayout());
