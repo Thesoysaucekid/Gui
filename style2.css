@@ -12,7 +12,7 @@
     background-image: url(./colorful_background.png);
 
 }
-nav{
+.nav{
     display: flex;
     width: 75%;
     margin: auto;
