@@ -9,7 +9,7 @@
     width: 100%;
     height: 100vh;
     background: lightgray;
-    background-image: url(./colorful_background.png);
+    background-image: url(https://t3.ftcdn.net/jpg/04/42/47/52/240_F_442475292_5ouemiiJiArGyNKSWgUpkRR8lmep6jgM.jpg);
 
 }
 .nav{
@@ -70,7 +70,7 @@ span{
     border-radius: 5px;
 }
 .my_photo{
-    height: 70%;
+    height: 50%;
     bottom: 0;
     right: 100%;
     margin-top: 50%;
@@ -78,7 +78,7 @@ span{
 
 .my_photo{
     position: absolute;
-    right: 0%;
+    right: -10%;
     bottom: 0;
     transform: translateX(-50%);
     transition: bottom 1s, left;
